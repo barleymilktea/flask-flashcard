@@ -1,2 +1,2 @@
 # flask-flashcard
-Add or remove flashcard for learning new languages
+Add or remove flashcards for learning new languages
